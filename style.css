@@ -34,7 +34,7 @@ html {
   width: 100vw;
   height: 100vh;
   overflow-y: scroll;
-  overflow-x: hidden;    
+  overflow-x: hidden;
 }
 
 
@@ -256,8 +256,8 @@ html {
   .navbar:hover .logo-text {
     left: 0px;
   }
-  
- 
+
+
 }
 
 .dark {
@@ -295,7 +295,7 @@ html {
   background-color: var(--bg-secondary);
   color: var(--text-secondary);
   padding: 2px;
-
+  display: grid;
 }
 
 .hero-container {
