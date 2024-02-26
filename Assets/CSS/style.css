@@ -292,6 +292,7 @@ html {
   background-color: var(--bg-secondary);
   color: var(--text-secondary);
   display: grid;
+  margin-left: 5rem;
 }
 
 .hero-container {
