@@ -1,22 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Anta:wght@500;600;700&display=swap');
 
-.dark {
-    --text-primary: #b6b6b6;
-    --text-secondary: #ececec;
-    --bg-primary: #23232e;
-    --bg-secondary: #141418;
-    --text-infocard: #b6b6b6;
-    --bg-infocard: #5900ff;
-}
 
-.light {
-    --text-primary: #1f1f1f;
-    --text-secondary: #000000;
-    --bg-primary: #ffffff;
-    --bg-secondary: #e4e4e4;
-    --text-infocard: #23232e;
-    --bg-infocard: #E4C32C;
-}
 
 .infocard-title {
 
