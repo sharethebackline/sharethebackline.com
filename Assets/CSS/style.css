@@ -286,8 +286,8 @@ html {
 .hero {
   background-color: var(--bg-secondary);
   color: var(--text-secondary);
-  padding: 2px;
   display: grid;
+  margin-left: 5rem;
 }
 
 .hero-container {
