@@ -285,6 +285,7 @@ html {
     color: var(--text-secondary);
     display: grid;
     margin-left: 5rem;
+    padding: 2rem;
   }
 }
 
