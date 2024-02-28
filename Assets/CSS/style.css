@@ -166,7 +166,7 @@ footer {
 
 .nav-link:hover {
   filter: grayscale(0%) opacity(1);
-  background: var(--bg-secondary);
+  background: var(--nav-bg);
   color: var(--text-secondary);
 }
 

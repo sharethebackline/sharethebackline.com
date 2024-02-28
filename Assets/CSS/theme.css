@@ -10,6 +10,7 @@
     --text-infocard: #23232e;
     --bg-infocard: var(--accent-color);
     --logo-color: var(--accent-color);
+    --nav-bg:#1f1f25;
   }
   
   .light {
@@ -22,4 +23,5 @@
     --text-infocard: #b6b6b6;
     --bg-infocard: var(--accent-color);
     --logo-color: var(--accent-color);
+    --nav-bg:#cecccc;
   }
