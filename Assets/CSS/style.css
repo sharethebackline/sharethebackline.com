@@ -104,6 +104,13 @@ html {
   background-color: var(--bg-secondary);
 
 }
+
+footer {
+  text-align: center;
+  color: var(--text-secondary);
+  background-color: var(--bg-secondary);
+  padding: 3rem;
+}
 .branding {
   left: 93%;
   width: 200px;
@@ -111,6 +118,9 @@ html {
   position: absolute;
   fill: var(--logo-color);
   transform: translateX(-100%);
+  stroke: var(--accent-color-2);
+  stroke-width: 1rem;
+ 
 }
 
 .nav-img {
