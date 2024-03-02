@@ -41,55 +41,28 @@ html {
 
 
 
-:root {
-
-  --font-color: #0f0f0f;
-  --bg-color: #fefefe;
-  --text-primary: #b6b6b6;
-  --text-secondary: #ececec;
-  --bg-primary: #23232e;
-  --bg-secondary: #141418;
-  --transition-speed: 0.1s;
-
-}
-
-[data-theme="dark"] {
-
-  --font-color: #fefefe;
-  --bg-color: #121212;
-  --text-primary: #b6b6b6;
-  --text-secondary: #ececec;
-  --bg-primary: #23232e;
-  --bg-secondary: #141418;
-}
 
 
 
-
+ 
 
 
 .podcast {
-  background-color: var(--bg-color);
+  background-color: var(--bg-secondary);
   justify-content: center;
   align-items: center;
   position: center;
+  padding-top: 120px;
+  padding-inline: 10vw;
 }
 
 .podcast-container {
   padding: 10%;
-  background-color: var(--bg-color);
+  background-color: var(--bg-secondary);
   position: center;
   width: 100%;
   padding-bottom: 56.25%;
   height: 0;
-}
-
-.podcast-container iframe {
-  position: center;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
 }
 
 
@@ -268,7 +241,14 @@ footer {
     background: var(--bg-secondary);
   }
 
-  
+  .podcast {
+    background-color: var(--bg-secondary);
+    justify-content: center;
+    align-items: center;
+    position: center;
+    padding-top: 3vh;
+    padding-inline: 3vw;
+  }
 }
 
 /* Large screens */
