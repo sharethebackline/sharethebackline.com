@@ -208,7 +208,7 @@ footer {
   }
 
   .navbar {
-    bottom: 0;
+    top: 0;
     width: 100%;
     height: 5rem;
     position: fixed;
