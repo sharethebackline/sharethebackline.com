@@ -199,6 +199,7 @@ footer {
     width: 100vw;
   }
   .branding {
+    top: 85px;
     left: 50%;
     width: 100px;
     height: 100px;
@@ -228,6 +229,11 @@ footer {
 
   .nav-link {
     justify-content: center;
+  }
+
+
+  .hero-container {
+    padding-top: 100px;
   }
 
   .hero {
