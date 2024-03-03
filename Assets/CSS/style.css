@@ -37,9 +37,14 @@ html {
   height: 100vh;
   overflow-y: scroll;
   overflow-x: hidden;
+  
 }
 
+body {
+  padding-bottom: 12vmax;
 
+  background: var(--bg-secondary);
+}
 
 
 
